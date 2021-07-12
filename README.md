@@ -34,7 +34,7 @@ The Nigeria house dataset describes listing of houses and their prices based on 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available  [here](insert medium file).
+The main findings of the code can be found at the post available  [here](https://romaiye.medium.com/nigeria-house-listings-a-closer-look-at-the-data-6bc6b539831f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Licensing for the data and other information can be found at the Kaggle link available  [here]( https://www.kaggle.com/airbnb/seattle/data?select=listings.csv).  Otherwise, feel free to use the code here as you would like.
