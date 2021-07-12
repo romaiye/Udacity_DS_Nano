@@ -14,6 +14,8 @@ The following Python3 libraries were used through Jupyter notebook in Visual Stu
 2.	Numpy
 3.	Math
 4.	matplotlib.pyplot
+
+
 Note: All the necessary libraries to run the code are also contained in the Anaconda distribution of Python and the code should run without issues using Python version 3*
 
 ## Project Motivation<a name="motivation"></a>
@@ -27,8 +29,8 @@ The Nigeria house dataset describes listing of houses and their prices based on 
 
 ## File Descriptions <a name="files"></a>
 
-1.	Nigeria houses listing.ipynb Jupyter notebook contains explanation, analysis, visuals and answers to the questions stated in the project motivation
-2.	listings.csv  - original dataset in csv format
+1.	Nigeria_Houses.ipynb Jupyter notebook contains explanation, analysis, visuals and answers to the questions stated in the project motivation
+2.	nigeria_houses_data.csv  - original dataset in csv format
 
 ## Results<a name="results"></a>
 
